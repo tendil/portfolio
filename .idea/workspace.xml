@@ -14,6 +14,7 @@
       <change beforePath="$PROJECT_DIR$/../files py/Структура.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/сердечко.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
       <workItem from="1665251508601" duration="5069000" />
       <workItem from="1665257606290" duration="3300000" />
       <workItem from="1665307423781" duration="2393000" />
-      <workItem from="1665310086971" duration="1547000" />
+      <workItem from="1665310086971" duration="2202000" />
     </task>
     <servers />
   </component>
