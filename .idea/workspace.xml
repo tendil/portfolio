@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/../Telegram bot Соседи/.idea/Telegram bot Соседи.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../files py/.idea/files py.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jango tests/.idea/jango tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/base_class.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/Все решения задачек с беспл курса.py" beforeDir="false" />
@@ -15,19 +14,6 @@
       <change beforePath="$PROJECT_DIR$/../files py/Структура.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/сердечко.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_portfolio-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_portfolio-project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/account.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/password_reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/password_reset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/profile_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/profile_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/templates/base/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_portfolio/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +108,7 @@
       <workItem from="1665251508601" duration="5069000" />
       <workItem from="1665257606290" duration="3300000" />
       <workItem from="1665307423781" duration="2393000" />
-      <workItem from="1665310086971" duration="915000" />
+      <workItem from="1665310086971" duration="1547000" />
     </task>
     <servers />
   </component>
