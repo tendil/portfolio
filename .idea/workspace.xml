@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78eabbe3-04b7-4898-9f8d-46c25bb87213" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/personal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../123/.idea/123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Telegram bot Соседи/.idea/Telegram bot Соседи.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../files py/.idea/files py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jango tests/.idea/jango tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/base_class.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/Все решения задачек с беспл курса.py" beforeDir="false" />
@@ -9,11 +15,34 @@
       <change beforePath="$PROJECT_DIR$/../files py/Структура.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../files py/сердечко.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my_portfolio-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_portfolio-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/password_reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/password_reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/profile_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/profile_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_portfolio/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +60,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/noname/personal/my_portfolio-project/static/images&quot;
   }
@@ -38,9 +68,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/staticfiles/images" />
+      <recent name="$PROJECT_DIR$/static/images/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/my_portfolio" />
-      <recent name="$PROJECT_DIR$/base" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/base" />
@@ -54,6 +85,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="my_portfolio.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -84,6 +116,13 @@
       <workItem from="1665174549966" duration="5338000" />
       <workItem from="1665182364370" duration="1825000" />
       <workItem from="1665215926421" duration="102000" />
+      <workItem from="1665221096791" duration="5308000" />
+      <workItem from="1665229644976" duration="2062000" />
+      <workItem from="1665246416768" duration="3013000" />
+      <workItem from="1665251508601" duration="5069000" />
+      <workItem from="1665257606290" duration="3300000" />
+      <workItem from="1665307423781" duration="2393000" />
+      <workItem from="1665310086971" duration="915000" />
     </task>
     <servers />
   </component>

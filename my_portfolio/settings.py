@@ -168,6 +168,11 @@ AWS_QUERYSTRING_AUTH = False
 
 DEFAULT_AUTO_FIELD='django.db.models.AutoField'
 
+try:
+    from .local_setting import *
+except ImportError:
+    print('Looks like no local file. You must be on production')
+
 #STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 #DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
