@@ -121,10 +121,10 @@ def sendEmail(request):
 			request.POST['subject'],
 			template,
 			settings.EMAIL_HOST_USER,
-			['dennisivy11@gmail.com']
+			['mejta.diman@gmail.com']
 			)
 
-		email.fail_silently=False
+		email.fail_silently = False
 		email.send()
 
 	return render(request, 'base/email_sent.html')

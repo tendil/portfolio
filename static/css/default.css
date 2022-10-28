@@ -1,19 +1,19 @@
 :root{
-	--mainColor:#eaeaea;
-	--secondaryColor:#fff;
+	--mainColor:#6e684b;
+	--secondaryColor:#595642;
 
-	--borderColor:#c1c1c1;
+	--borderColor:#401c20;
 
-	--mainText:black;
-	--secondaryText:#4b5156;
+	--mainText:#11241f;
+	--secondaryText:#bab566;
 
 	--themeDotBorder:#24292e;
 
-	--previewBg:rgb(251, 249, 243, 0.8);
-	--previewShadow:#f0ead6;
+	--previewBg:rgb(110, 104, 75, 0.8);
+	--previewShadow:#3b381f;
 
 
-	--buttonColor:black;
+	--buttonColor:#33311b;
 
 
 }
@@ -83,7 +83,7 @@ h6 { font-size: 16px;}
 	display: grid;
 	text-align: center;
 	align-content: center;
-	min-height: 10em;
+	min-height: 5em;
 
 }
 
@@ -229,7 +229,7 @@ h6 { font-size: 16px;}
 	display: block;
 	margin:0 auto;
 
-	height: 200px;
+	height: 250px;
 	width: 200px;
 	object-fit: cover;
 	border:2px solid var(--borderColor);
@@ -264,7 +264,7 @@ h6 { font-size: 16px;}
 
 
 #light-mode{
-	background-color: #fff;
+	background-color: #6e684b;
 }
 
 #blue-mode{

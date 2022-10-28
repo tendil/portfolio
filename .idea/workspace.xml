@@ -2,19 +2,519 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78eabbe3-04b7-4898-9f8d-46c25bb87213" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/personal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../123/.idea/123.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Telegram bot Соседи/.idea/Telegram bot Соседи.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../files py/.idea/files py.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jango tests/.idea/jango tests.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/base_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/Все решения задачек с беспл курса.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/Домашнее задание: игра в палочки.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/Структура.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" beforeDir="false" afterPath="$PROJECT_DIR$/../files py/площадь по3х сторонах.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../files py/сердечко.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/images/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/images/main_me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/images/phonebook_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/images/phonebook_main_LXRO5AS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/uploads/2022/10/26/add_user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/uploads/2022/10/26/contact_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/uploads/2022/10/26/export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/uploads/2022/10/26/show_all_contacts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/uploads/2022/10/26/user_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/resume_dmytro_meita_junior_python_engineer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staticfiles/resume_dmytro_meita_junior_python_engineer.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_portfolio/local_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_portfolio/local_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/green.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/green.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/purple.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/purple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/Dennis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/follow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/13458635_495310297327234_5647645778146293417_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/13458635_495310297327234_5647645778146293417_o_DYQaEne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/1660048616_6-funart-pro-p-oboi-na-rabochii-stol-anime-art-krasivo-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/Dennis_Ivanov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/Seo_thumbnail4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/Wallpaper_-_54.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/dash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/ecom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/filter.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/linkedin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/me_l7wdVvx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/membership_site.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/membership_site_rGviW6n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/personal blog 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/personal-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/wordpress_or_django.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/youtube.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/images/дляхрома.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/me1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/personal-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/changelists.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/changelists.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/forms.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/responsive_rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/vendor/select2/select2.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/css/widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/css/widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/SelectBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/SelectFilter2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/autocomplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/cancel.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/cancel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/change_form.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/change_form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/core.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/inlines.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/inlines.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/jquery.init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/popup_response.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/prepopulate_init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/urlify.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/urlify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/dsb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/dsb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hsb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hsb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hy.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/hy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ne.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ne.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ps.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/select2/select2.full.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor-init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/adapters/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/adapters/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/build-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/build-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/contents.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/contents.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/bn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/bn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/bs.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/bs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/de-ch.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/de-ch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en-au.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en-au.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/eo.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/eo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/es-mx.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/es-mx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fo.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fr-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fr-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/gu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/gu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/is.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ka.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ka.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ku.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/mn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/mn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ms.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/no.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/no.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/oc.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/oc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/si.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/si.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sr-latn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sr-latn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/tt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/tt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ug.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/ug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/lang/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/about/dialogs/about.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/clipboard/dialogs/paste.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/clipboard/dialogs/paste.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/devtools/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/devtools/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/dialog/dialogDefinition.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/dialog/dialogDefinition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/dialog/styles/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/dialog/styles/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/find/dialogs/find.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/find/dialogs/find.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/flash/dialogs/flash.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/flash/dialogs/flash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/hiddenfield.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/hiddenfield.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/radio.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/radio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/select.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/textarea.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/textarea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/textfield.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/forms/dialogs/textfield.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/icons_hidpi.png" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/icons_hidpi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/iframe/dialogs/iframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/iframe/dialogs/iframe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/image/dialogs/image.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/image/dialogs/image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/link/dialogs/anchor.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/link/dialogs/anchor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/link/dialogs/link.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/link/dialogs/link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/liststyle/dialogs/liststyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/liststyle/dialogs/liststyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/pastefromgdocs/filter/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/pastefromgdocs/filter/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/pastetools/filter/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/pastetools/filter/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/preview/preview.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/preview/preview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/dialogs/toolbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/smiley/dialogs/smiley.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/smiley/dialogs/smiley.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/af.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ar.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/az.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/az.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/cs.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/da.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/da.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/el.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/eo.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/es.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/et.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/eu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/eu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fa.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/gl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/he.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/hr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/hu.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/id.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/it.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/km.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/km.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ku.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/lt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/lt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/lv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/nb.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/no.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/oc.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/oc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ro.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/si.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sl.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sq.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sr-latn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sv.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/th.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/tr.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/tt.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/tt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ug.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/uk.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/vi.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/zh.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/zh.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/specialchar.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/table/dialogs/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/table/dialogs/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/tabletools/dialogs/tableCell.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/templates/dialogs/templates.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/templates/dialogs/templates.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/templates/dialogs/templates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/templates/templates/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/templates/templates/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/uicolor/lang/_translationstatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/uicolor/lang/_translationstatus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/uicolor/yui/assets/yui.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/uicolor/yui/assets/yui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/ciframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc_ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/icons.png" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/icons.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono-lisa/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/dialog_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_gecko.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_gecko.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie7.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie7.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie8.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_ie8.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_iequirks.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/editor_iequirks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/skins/moono/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor_uploader/admin_base.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/ckeditor_uploader/admin_base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/black.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/black.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-2.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-3.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-4.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-5.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/galleriffic-5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/white.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/css/white.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/js/jquery.galleriffic.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/js/jquery.galleriffic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/js/jquery.opacityrollover.js" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/ckeditor/galleriffic/js/jquery.opacityrollover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/staticfiles/css/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/Dennis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/follow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/13458635_495310297327234_5647645778146293417_o.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/13458635_495310297327234_5647645778146293417_o_DYQaEne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/Dennis_Ivanov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/Seo_thumbnail4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/dash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/ecom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/filter.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/me_FK8Fehq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/me_l7wdVvx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/membership_site.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/membership_site_rGviW6n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/personal blog 5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/personal-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/images/youtube.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/personal-blog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/uploads/2020/07/29/40k-website.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/uploads/2020/07/29/book-tablet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/images/uploads/2020/07/29/youtube.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/email_sent.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/email_sent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/password_reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/password_reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/reset.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +549,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/noname/personal/my_portfolio-project/static/images&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/noname/personal/personal_portfolio-project&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/staticfiles" />
       <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/staticfiles/images" />
       <recent name="$PROJECT_DIR$/static/images/images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/my_portfolio" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/images" />
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/base" />
       <recent name="$PROJECT_DIR$/base/migrations" />
     </key>
@@ -110,6 +612,29 @@
       <workItem from="1665257606290" duration="3300000" />
       <workItem from="1665307423781" duration="2393000" />
       <workItem from="1665310086971" duration="2202000" />
+      <workItem from="1665337524772" duration="41000" />
+      <workItem from="1665398881030" duration="26000" />
+      <workItem from="1665402527983" duration="53000" />
+      <workItem from="1665653921565" duration="246000" />
+      <workItem from="1665654773736" duration="805000" />
+      <workItem from="1665908852434" duration="617000" />
+      <workItem from="1665924412585" duration="219000" />
+      <workItem from="1666628169849" duration="11000" />
+      <workItem from="1666638417008" duration="3367000" />
+      <workItem from="1666682949531" duration="37000" />
+      <workItem from="1666784596842" duration="1709000" />
+      <workItem from="1666789790831" duration="1005000" />
+      <workItem from="1666794301399" duration="1211000" />
+      <workItem from="1666813380300" duration="1412000" />
+      <workItem from="1666815748809" duration="4199000" />
+      <workItem from="1666820579904" duration="5238000" />
+      <workItem from="1666858065673" duration="1501000" />
+      <workItem from="1666862287972" duration="19000" />
+      <workItem from="1666862440848" duration="2877000" />
+      <workItem from="1666870969068" duration="375000" />
+      <workItem from="1666873969326" duration="45000" />
+      <workItem from="1666948669225" duration="6690000" />
+      <workItem from="1666978077424" duration="215000" />
     </task>
     <servers />
   </component>

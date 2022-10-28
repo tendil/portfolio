@@ -1,19 +1,19 @@
 :root{
-	--mainColor:#eaeaea;
-	--secondaryColor:#fff;
+	--mainColor:#6e684b;
+	--secondaryColor:#595642;
 
-	--borderColor:#c1c1c1;
+	--borderColor:#401c20;
 
-	--mainText:black;
-	--secondaryText:#4b5156;
+	--mainText:#11241f;
+	--secondaryText:#bab566;
 
 	--themeDotBorder:#24292e;
 
-	--previewBg:rgb(251, 249, 243, 0.8);
-	--previewShadow:#f0ead6;
+	--previewBg:rgb(110, 104, 75, 0.8);
+	--previewShadow:#3b381f;
 
 
-	--buttonColor:black;
+	--buttonColor:#33311b;
 
 
 }
@@ -83,7 +83,7 @@ h6 { font-size: 16px;}
 	display: grid;
 	text-align: center;
 	align-content: center;
-	min-height: 10em;
+	min-height: 5em;
 
 }
 
@@ -99,7 +99,7 @@ h6 { font-size: 16px;}
 
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-	grid-template-areas: 
+	grid-template-areas:
 		'nav-wrapper nav-wrapper'
 		'left-column right-column'
 	;
@@ -204,7 +204,7 @@ h6 { font-size: 16px;}
 		padding: 10px;
 		width: 100%;
 		border-top:2px solid var(--borderColor);
-			
+
 		font-size: 18px;
 		text-align: center;
 		margin:0;
@@ -229,7 +229,7 @@ h6 { font-size: 16px;}
 	display: block;
 	margin:0 auto;
 
-	height: 200px;
+	height: 250px;
 	width: 200px;
 	object-fit: cover;
 	border:2px solid var(--borderColor);
@@ -264,7 +264,7 @@ h6 { font-size: 16px;}
 
 
 #light-mode{
-	background-color: #fff;
+	background-color: #6e684b;
 }
 
 #blue-mode{
@@ -458,6 +458,35 @@ h6 { font-size: 16px;}
 	background-color: var(--buttonColor);
 	border:none;
 }
+
+
+/* Login Page (START) */
+
+	#login-page-wrapper{
+		background: #eaeaea;
+		height: 100vh;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	#login-form-wrapper{
+		width: 400px;
+		background: #fff;
+		padding: 20px;
+		-webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+		-moz-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+		box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
+	}
+
+	@media screen and (max-width: 400px){
+		#login-form-wrapper{
+			width: 95%;
+		}
+	}
+
+
+/* Login Page (END) */
 
 
 @media screen and (max-width: 1200px){
